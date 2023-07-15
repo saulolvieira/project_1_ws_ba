@@ -14,7 +14,7 @@ O site no qual os dados estão disponíveis pode ser acessado pelo seguinte [lin
 
 ### Lógica de desenvolvimento
 
-O algoritmo funciona coletando dados de comentários de clientes em um site específico. Cada comentário possui um ID representado por `anchor######` na página HTML, e os dados são coletados seguindo um formato estruturado.
+Cada comentário possui um ID representado por `anchor######` na página HTML, e os dados são coletados seguindo um formato estruturado.
 
 A coleta de dados ocorre em duas partes:
 
