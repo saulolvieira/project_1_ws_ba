@@ -164,11 +164,10 @@ for i in range(1, num_pages+1):
 df2 = pd.concat(all_results2)
 df2 = df2.reset_index()
 ``````
-Concatenação dos dataframes gerados para formato tabular e análisável 
+Concatenação dos dataframes gerados para formato tabular e analisável 
 
 ``````python
 df_final = pd.merge(df2, df, on = 'review_id', how = 'inner')
 # Exportando para excel:
 df_final.to_excel('caminho/para/o/arquivo.xlsx', index=False)
 ``````
-
