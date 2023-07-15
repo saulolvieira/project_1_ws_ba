@@ -28,6 +28,8 @@ Essa abordagem permite uma análise aprofundada dos comentários dos clientes, f
 
 ## Desenvolvimento
 
+[notebook para execução](https://github.com/saulolvieira/project_1_ws_ba/blob/main/ba_data_input_pipeline.ipynb)
+
 Importação de bibliotecas
 
 ``````python
