@@ -1,5 +1,3 @@
-# Web scraping to gain company insights
-
 ## Contexto e objetivo
 Na era atual, em que os consumidores se tornaram cada vez mais críticos e exigentes na decisão de compra, é fundamental que as empresas adotem uma abordagem centrada no cliente para se manterem competitivas no mercado. Para isso, é essencial ouvir o que os clientes valorizam e sentem em relação à empresa, coletando dados relevantes que direcionem ações e melhorias internas, a fim de aprimorar a experiência do cliente e aumentar o valor percebido da marca.
 
